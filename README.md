@@ -102,6 +102,7 @@ The Marine Ecosystem Risk Assessment Dashboard provides a comprehensive view of 
 👤 Author
 
 Bharat Kumaar R
+
 Data Analyst | Power BI Developer | Data Visualization Enthusiast
 
 GitHub: https://github.com/Bharat-KR25/Marine-Ecosystem-Risk-Assessment-Dashboard
