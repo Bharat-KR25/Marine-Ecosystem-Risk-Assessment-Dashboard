@@ -33,18 +33,31 @@ Dataset Size: 500 Records
 📈 Dashboard Visualizations
 
 KPI Cards
+
 Average pH Level
+
 Average Sea Surface Temperature (SST)
+
 Average Species Observed
+
 Total Bleaching Events
+
 Average Risk Rating
+
 Interactive Filters
+
 Year Slicer
+
 Location Slicer
+
 Analytical Visuals
+
 Geographic Map of Marine Locations
+
 Risk Rating by Location Table
+
 Ocean Parameters Comparison Chart
+
 Average SST & pH by Location Trend Analysis
 
 🔍 Key Insights
