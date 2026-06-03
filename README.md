@@ -8,6 +8,7 @@ The Marine Ecosystem Risk Assessment Dashboard is an interactive Power BI projec
 This project aims to provide data-driven insights that support marine conservation efforts and help identify regions vulnerable to climate change and ocean degradation.
 
 🎯 Objectives
+
 Monitor critical ocean health indicators.
 Assess environmental risk across different marine locations.
 Analyze the relationship between temperature, pH, biodiversity, and coral bleaching.
@@ -15,6 +16,7 @@ Identify high-risk regions requiring conservation attention.
 Provide interactive visual analytics for environmental decision-making.
 
 📊 Dataset Information
+
 Attribute	Description
 Date	Observation date
 Location	Marine ecosystem location
@@ -29,6 +31,7 @@ Marine Heatwave	Indicates heatwave occurrence
 Dataset Size: 500 Records
 
 📈 Dashboard Visualizations
+
 KPI Cards
 Average pH Level
 Average Sea Surface Temperature (SST)
@@ -45,6 +48,7 @@ Ocean Parameters Comparison Chart
 Average SST & pH by Location Trend Analysis
 
 🔍 Key Insights
+
 The average sea surface temperature is 29°C, indicating elevated thermal conditions across monitored regions.
 Ocean pH remains relatively stable at 8.05, though continued monitoring is essential to detect acidification trends.
 An average of 120+ species were observed, reflecting healthy biodiversity levels in several locations.
@@ -53,6 +57,7 @@ The South China Sea exhibits the highest ecosystem risk rating (12.42), while th
 Temperature appears to be a major contributor to increased ecosystem risk and coral bleaching activity.
 
 🛠️ Tools & Technologies
+
 Power BI Desktop
 Microsoft Bing Maps
 DAX (Data Analysis Expressions)
@@ -68,8 +73,8 @@ CSV Dataset
 ✔ Data-driven environmental insights
 
 📚 Learning Outcomes
-Through this project, I gained hands-on experience in:
 
+Through this project, I gained hands-on experience in:
 Data Cleaning and Transformation using Power Query
 Creating DAX Measures and KPIs
 Designing Interactive Power BI Dashboards
