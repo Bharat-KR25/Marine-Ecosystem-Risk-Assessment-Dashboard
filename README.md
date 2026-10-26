@@ -8,7 +8,7 @@ Which reefs carry the highest risk, what conditions go with that risk, and how d
 
 ## Dataset
 
-- **Source:** [add the dataset source or link here]
+- **Source:** https://www.kaggle.com/datasets/atharvasoundankar/shifting-seas-ocean-climate-and-marine-life-dataset?utm_source=chatgpt.com
 - **Size:** 500 readings from 7 locations: Great Barrier Reef, Red Sea, South China Sea, Hawaiian Islands, Caribbean Sea, Galapagos and Maldives.
 - **Period:** 1 January 2015 to 31 December 2023, about 55 readings per year.
 - **Fields:** date, location, latitude, longitude, SST (°C), pH level, bleaching severity, species observed, marine heatwave flag, and hemisphere (from a second sheet).
