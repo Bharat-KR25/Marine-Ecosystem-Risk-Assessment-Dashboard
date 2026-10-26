@@ -79,25 +79,25 @@ The full guide to each page is in `Environmental_Risk_Assessment_Dashboards.pdf`
 
 ### 1. Overview
 
-![Overview page](screenshots/overview.png)
+
 
 Headline KPIs, readings by year and risk rating, the average risk trend, and a map of the seven locations.
 
 ### 2. Drivers
 
-![Drivers page](screenshots/drivers.png)
+
 
 SST against species observed, species by risk rating and by pH band, and average risk by location.
 
 ### 3. 2020 vs 2021
 
-![2020 vs 2021 page](screenshots/year_comparison.png)
+
 
 Year-over-year cards, the location matrix, the monthly trend, and High+Extreme % by location.
 
 ### 4. Location Deep Dive (drill-through)
 
-![Location Deep Dive page](screenshots/location_deep_dive.png)
+
 
 Right-click any location on another page and choose Location Deep Dive to open this page. It shows SST over time against the 30 °C threshold, the High and Extreme readings, and the bleaching mix.
 
